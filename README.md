@@ -43,3 +43,10 @@ For full reproduction, download the dataset and place `spotify_tracks.csv` in th
 
 ### Launch Jupyter
 `jupyter notebook music-genre-analysis.ipynb`
+
+## Repository contents
+- **music-genre-analysis.ipynb** - Jupyter notebook with analysis and visualizations
+- **clustering_results.pkl** - Saved model results and parameters
+- **X_scaled.npy**, **X_sample_scaled.npy** - Processed feature matrices
+- **X_pca.npt**, **X_tsne.npy** - Dimensionality reduction outputs
+- **requirements.txt** - Python dependencies
